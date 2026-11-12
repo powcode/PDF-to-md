@@ -1,0 +1,12 @@
+# Python & Virtualenv
+__pycache__/
+*.py[cod]
+.venv/
+
+# Slidekit runtime folders
+uploads/
+outputs/
+cache/
+
+# Environment variables
+.env

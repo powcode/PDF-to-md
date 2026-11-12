@@ -1,0 +1,33 @@
+:root {
+  --cream: #FFF8EC;
+  --ink: #1E1B2E;
+  --orange: #FF7A45;
+  --yellow: #FFC93C;
+  --mint: #3DD6A0;
+  --pink: #FF8FB1;
+  --blue: #2F5BEA;
+  --crimson: #B3261E;
+
+  --font-heading: "Fredoka", system-ui, sans-serif;
+  --font-body: "Nunito", system-ui, sans-serif;
+
+  --border-ink: 3px solid var(--ink);
+  --border-ink-dashed: 3px dashed var(--ink);
+  --border-crimson: 3px solid var(--crimson);
+  --border-crimson-dashed: 3px dashed var(--crimson);
+  --shadow-ink: 4px 4px 0 var(--ink);
+  --shadow-ink-hover: 2px 2px 0 var(--ink);
+
+  /* Spacing: 4, 8, 12, 16, 24, 32, 48 px */
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 200ms ease;
+}
